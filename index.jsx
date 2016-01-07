@@ -96,7 +96,7 @@ var AddBuzz = React.createClass({
 
 React.render(
   <div>
-  <AddBuzz/>
-  <BuzzList/>
+    <BuzzList/>
+    <AddBuzz/>
   </div>,
   document.getElementById('app'));
